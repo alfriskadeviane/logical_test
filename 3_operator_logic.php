@@ -1,8 +1,7 @@
 <?php
 function hasilbagi($bilangan, $pembagi){
-    $bilangan;
     while ($bilangan-$pembagi >= $pembagi){
-        $bil=$bilangan-$pembagi;
+        $bilangan=$bilangan-$pembagi;
         // echo $bilangan;
     };
     echo "$bilangan";
